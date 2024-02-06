@@ -43,7 +43,7 @@ private/public
 `git clone https://github.com/<nickname>/<repository_name>.git`  
   
   
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/images/git_1.png" width="500"/> 
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/git_1.png" width="500"/> 
 
 Команда прописывается либо в терминале Git Bash (в директории куда хотите склонировать репозиторий), либо в терминале VS Code и т.д.
 
@@ -78,9 +78,9 @@ git push origin main - Загружаете файлы в репозиторий
 ### Добавить путь в переменные среды (PATH)
 Переменная PATH содержит список директорий, в которых операционная система пытается искать исполняемые файлы, если пользователь при запуске не указал явно путь к нужному исполняемому файлу.
 
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/images/Переменные_1.png" alt="Добавление в PATH 1" width="500"/> 
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/Переменные_2.png" alt="Добавление в PATH 2" width="500"/> 
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/Переменные_3.png" alt="Добавление в PATH 3" width="500"/> 
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/Переменные_1.png" alt="Добавление в PATH 1" width="500"/> 
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/Переменные_2.png" alt="Добавление в PATH 2" width="500"/> 
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/Переменные_3.png" alt="Добавление в PATH 3" width="500"/> 
 
 ### Сборка в VS Code
 Можно создать task, а можно через терминал  
@@ -88,11 +88,11 @@ git push origin main - Загружаете файлы в репозиторий
 #### Создать Task  
 a) В верхнем меню: Terminal->Configure Tasks  
 
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/images/vs_code_1.png" width="200"/> 
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/vs_code_1.png" width="200"/> 
 
 b) Выбрать установленный компилятор  
 
-<img src="https://github.com/anyhhope/OOP_practice_2024/tree/main/1_06.02_oop_git_classes/images/vs_code_2.png" width="500"/>   
+<img src="https://github.com/anyhhope/OOP_practice_2024/blob/main/1_06.02_oop_git_classes/images/vs_code_2.png" width="500"/>   
 
 #### Команда в терминал  
 `g++ -o myapp main.cpp`
