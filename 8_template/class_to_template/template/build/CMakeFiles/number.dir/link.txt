@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libnumber.a CMakeFiles/number.dir/number.cpp.obj
+C:\MinGW\bin\ranlib.exe libnumber.a

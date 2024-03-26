@@ -1,0 +1,4 @@
+C:/Nadezhda/OOP_2024/OOP_practice_2024/8_template/class_to_template/template/build/CMakeFiles/number.dir
+C:/Nadezhda/OOP_2024/OOP_practice_2024/8_template/class_to_template/template/build/CMakeFiles/test.dir
+C:/Nadezhda/OOP_2024/OOP_practice_2024/8_template/class_to_template/template/build/CMakeFiles/edit_cache.dir
+C:/Nadezhda/OOP_2024/OOP_practice_2024/8_template/class_to_template/template/build/CMakeFiles/rebuild_cache.dir
