@@ -9,6 +9,11 @@ int func2(int a, int b) {
     return a + b;
 }
 
+class MyClass{
+public:
+ 
+};
+
 int main() {
     int num1 = 10;
     int num2 = 20;
