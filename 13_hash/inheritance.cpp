@@ -2,6 +2,14 @@
 
 class IBase {
 public:
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+    // virtual int method() = 0;
+
     virtual void printToStream(std::ostream& os) const = 0;
 };
 
@@ -23,7 +31,7 @@ private:
 };
 
 int main() {
-    IBase* basePtr = new Derived(42);
+    Derived* basePtr = new Derived(42);
     std::cout << *basePtr << std::endl;
     delete basePtr;
 
