@@ -74,11 +74,15 @@ public:
         Iterator(size_t i, Node* node, const std::vector<Node*>& tbl);
         Iterator& operator++();
         bool operator!=(const Iterator& other) const;
-        Iterator begin() const;
+        std::pair<const KeyType&, ValueType&> operator*() const;
 
 
     Iterator begin() const;
     Iterator end() const;
 
 ```
+
+### Обязательно 
+Написать доктесты
+Форматировать по Google Style Guide проверяя cpplint.py
 
