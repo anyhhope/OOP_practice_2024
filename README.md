@@ -12,4 +12,8 @@
 * [02.04 Списки на нодах](9_02.04_nodes)
 * [23.04 Наследование](10_inheritance)
 * [23.04 Бинарное дерово поиска](11_binary_search_tree)
+* [30.04 Дебаггеры, санитайзеры, линтеры](11_binary_search_tree)
+* [07.05 Хэш таблица](11_binary_search_tree)
+* [28.05 Clean Code 7 design patterns](14_clean_code_design_patterns)
+
 
